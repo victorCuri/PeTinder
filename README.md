@@ -13,17 +13,3 @@ No topo da tela de Swipe haverão dois icones, clicando no da esquerda(um bonequ
 
 O aplicativo foi desenvolvido com o sistema Android Studio e usuou como banco de dados e servidor o programa Firebase da google.
 
-
-
-
-
-
-
-
-EDIT: os icones de "X", "i" e um coração na parte superior da tela de swipe são apenas "enfeites", não ocorrerá nada caso clique em cima deles
-
-EDIT1: Conta de cadastrada para acessar o aplicativo 
-Email: usuario@gmail.com
-Senha: 123456
-
-EDT2:Todos usuarios deram "like" nesse usuario(usuario@gmail.com), ou seja, qualquer "like" que for dado formará um "match".
